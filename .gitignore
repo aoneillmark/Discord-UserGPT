@@ -1,0 +1,7 @@
+Data/*
+!Data/.gitkeep
+Results/models/*
+!Results/models/.gitkeep
+Results/processed_data/*
+!Results/processed_data/.gitkeep
+
